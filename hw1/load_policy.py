@@ -1,4 +1,5 @@
-import pickle, tensorflow as tf, tf_util, numpy as np
+import pickle, tensorflow.compat.v1 as tf, tf_util
+import numpy as np
 
 def load_policy(filename):
     with open(filename, 'rb') as f:

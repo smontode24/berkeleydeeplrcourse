@@ -1,5 +1,11 @@
 # CS294-112 HW 1: Imitation Learning
 
+Newer dependencies:
+- sudo apt install elfpatch
+- follow guidelines of: https://github.com/openai/mujoco-py
+
+#####
+
 Dependencies:
  * Python **3.5**
  * Numpy version **1.14.5**
